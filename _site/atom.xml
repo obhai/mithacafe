@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>MithaCafe</title>
- <link href="http://localhost:4000https://obhai.github.io/mithacafe//atom.xml" rel="self"/>
- <link href="http://localhost:4000https://obhai.github.io/mithacafe//"/>
- <updated>2018-01-18T15:57:35+05:30</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-01-18T17:13:48+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rahul</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>What's Mithacafe?</title>
-   <link href="http://localhost:4000https://obhai.github.io/mithacafe//2018/01/18/whats-mithacafe/"/>
+   <link href="http://localhost:4000/2018/01/18/whats-mithacafe/"/>
    <updated>2018-01-18T00:00:00+05:30</updated>
    <id>http://localhost:4000/2018/01/18/whats-mithacafe</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mithacafe.com&quot;&gt;Mithacafe&lt;/a&gt; is an online cakes and confectionary store.&lt;/p&gt;
