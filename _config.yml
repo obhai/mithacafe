@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               MithaCafe
 tagline:             Bringing Sweetness
-url:                 
+url:                 ""
 paginate:            1
-baseurl:             "/mithacafe/"
+baseurl:             "https://obhai.github.io/mithacafe/"
 
 # Assets
 #
